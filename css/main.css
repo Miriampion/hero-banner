@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -37,7 +37,7 @@ p {
   bottom: 1rem;
   max-width: 50em;
   width: 100%;
-  transform: translate(-50%)
+  transform: translate(-50%);
   left: 50%;
 }
 
